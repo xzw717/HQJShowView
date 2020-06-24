@@ -8,14 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		1F887F062490877A00D7D9CB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F052490877A00D7D9CB /* AppDelegate.m */; };
-		1F887F092490877A00D7D9CB /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F082490877A00D7D9CB /* SceneDelegate.m */; };
 		1F887F0C2490877A00D7D9CB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F0B2490877A00D7D9CB /* ViewController.m */; };
 		1F887F0F2490877A00D7D9CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F887F0D2490877A00D7D9CB /* Main.storyboard */; };
 		1F887F112490877B00D7D9CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F887F102490877B00D7D9CB /* Assets.xcassets */; };
-		1F887F142490877B00D7D9CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F887F122490877B00D7D9CB /* LaunchScreen.storyboard */; };
 		1F887F172490877B00D7D9CB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F162490877B00D7D9CB /* main.m */; };
 		1F887F212490877B00D7D9CB /* HQJShowViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F202490877B00D7D9CB /* HQJShowViewTests.m */; };
-		1F887F2C2490877B00D7D9CB /* HQJShowViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F2B2490877B00D7D9CB /* HQJShowViewUITests.m */; };
 		1F887F3B2490892D00D7D9CB /* TestShowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F887F3A2490892D00D7D9CB /* TestShowView.m */; };
 /* End PBXBuildFile section */
 
@@ -40,21 +37,16 @@
 		1F887F012490877A00D7D9CB /* HQJShowView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HQJShowView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F887F042490877A00D7D9CB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1F887F052490877A00D7D9CB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1F887F072490877A00D7D9CB /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		1F887F082490877A00D7D9CB /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
 		1F887F0A2490877A00D7D9CB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		1F887F0B2490877A00D7D9CB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		1F887F0E2490877A00D7D9CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1F887F102490877B00D7D9CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1F887F132490877B00D7D9CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F887F152490877B00D7D9CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F887F162490877B00D7D9CB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1F887F1C2490877B00D7D9CB /* HQJShowViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HQJShowViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F887F202490877B00D7D9CB /* HQJShowViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HQJShowViewTests.m; sourceTree = "<group>"; };
 		1F887F222490877B00D7D9CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F887F272490877B00D7D9CB /* HQJShowViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HQJShowViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F887F2B2490877B00D7D9CB /* HQJShowViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HQJShowViewUITests.m; sourceTree = "<group>"; };
-		1F887F2D2490877B00D7D9CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F887F392490892D00D7D9CB /* TestShowView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestShowView.h; sourceTree = "<group>"; };
 		1F887F3A2490892D00D7D9CB /* TestShowView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestShowView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -111,13 +103,10 @@
 			children = (
 				1F887F042490877A00D7D9CB /* AppDelegate.h */,
 				1F887F052490877A00D7D9CB /* AppDelegate.m */,
-				1F887F072490877A00D7D9CB /* SceneDelegate.h */,
-				1F887F082490877A00D7D9CB /* SceneDelegate.m */,
 				1F887F0A2490877A00D7D9CB /* ViewController.h */,
 				1F887F0B2490877A00D7D9CB /* ViewController.m */,
 				1F887F0D2490877A00D7D9CB /* Main.storyboard */,
 				1F887F102490877B00D7D9CB /* Assets.xcassets */,
-				1F887F122490877B00D7D9CB /* LaunchScreen.storyboard */,
 				1F887F152490877B00D7D9CB /* Info.plist */,
 				1F887F162490877B00D7D9CB /* main.m */,
 			);
@@ -136,8 +125,6 @@
 		1F887F2A2490877B00D7D9CB /* HQJShowViewUITests */ = {
 			isa = PBXGroup;
 			children = (
-				1F887F2B2490877B00D7D9CB /* HQJShowViewUITests.m */,
-				1F887F2D2490877B00D7D9CB /* Info.plist */,
 			);
 			path = HQJShowViewUITests;
 			sourceTree = "<group>";
@@ -245,7 +232,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F887F142490877B00D7D9CB /* LaunchScreen.storyboard in Resources */,
 				1F887F112490877B00D7D9CB /* Assets.xcassets in Resources */,
 				1F887F0F2490877A00D7D9CB /* Main.storyboard in Resources */,
 			);
@@ -276,7 +262,6 @@
 				1F887F3B2490892D00D7D9CB /* TestShowView.m in Sources */,
 				1F887F062490877A00D7D9CB /* AppDelegate.m in Sources */,
 				1F887F172490877B00D7D9CB /* main.m in Sources */,
-				1F887F092490877A00D7D9CB /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,7 +277,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F887F2C2490877B00D7D9CB /* HQJShowViewUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,14 +302,6 @@
 				1F887F0E2490877A00D7D9CB /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		1F887F122490877B00D7D9CB /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1F887F132490877B00D7D9CB /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -381,7 +357,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -433,7 +409,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
