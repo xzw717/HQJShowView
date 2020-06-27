@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  HQJShowView
+//  XzwTest
 //
-//  Created by Ethan on 2020/6/10.
+//  Created by Ethan on 2020/6/27.
 //  Copyright © 2020 Fujian first time iot technology investment co., LTD. All rights reserved.
 //
 

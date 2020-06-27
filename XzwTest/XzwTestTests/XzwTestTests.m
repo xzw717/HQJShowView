@@ -1,18 +1,18 @@
 //
-//  HQJShowViewTests.m
-//  HQJShowViewTests
+//  XzwTestTests.m
+//  XzwTestTests
 //
-//  Created by Ethan on 2020/6/10.
+//  Created by Ethan on 2020/6/27.
 //  Copyright © 2020 Fujian first time iot technology investment co., LTD. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface HQJShowViewTests : XCTestCase
+@interface XzwTestTests : XCTestCase
 
 @end
 
-@implementation HQJShowViewTests
+@implementation XzwTestTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
